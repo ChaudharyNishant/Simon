@@ -1,0 +1,106 @@
+#yellowtitle
+{
+	-fx-background-color: yellow;
+	-fx-font-size: 22;
+	-fx-padding: 0 0 0 0;
+	-fx-text-fill: blue;
+	-fx-font-weight: bold;
+	-fx-border-color: rgb(0, 225, 0);
+	-fx-border-width: 3;
+}
+
+#bluetitle
+{
+	-fx-background-color: blue;
+	-fx-font-size: 22;
+	-fx-padding: 0 0 0 0;
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+	-fx-border-color: red;
+	-fx-border-width: 3;
+}
+
+#yellowtext
+{
+	-fx-background-color: yellow;
+	-fx-padding: 0 0 0 0;
+	-fx-text-fill: blue;
+	-fx-font-weight: bold;
+	-fx-border-color: rgb(0, 225, 0);
+	-fx-border-width: 3;
+}
+
+#bluetext
+{
+	-fx-background-color: blue;
+	-fx-padding: 0 0 0 0;
+	-fx-text-fill: yellow;
+	-fx-font-weight: bold;
+	-fx-border-color: red;
+	-fx-border-width: 3;
+}
+
+#redtext
+{
+	-fx-background-color: red;
+	-fx-padding: 0 0 0 0;
+	-fx-text-fill: rgb(0, 225, 0);
+	-fx-font-weight: bold;
+	-fx-border-color: blue;
+	-fx-border-width: 3;
+}
+
+#greentext
+{
+	-fx-background-color: rgb(0, 225, 0);
+	-fx-padding: 0 0 0 0;
+	-fx-text-fill: red;
+	-fx-font-weight: bold;
+	-fx-border-color: yellow;
+	-fx-border-width: 3;
+}
+
+#yellow
+{
+	-fx-background-color: yellow;
+}
+
+#blue
+{
+	-fx-background-color: blue;
+}
+
+#red
+{
+	-fx-background-color: red;
+}
+
+#green
+{
+	-fx-background-color: rgb(0, 225, 0);
+}
+
+#darkyellow
+{
+	-fx-background-color: rgb(200, 200, 0);
+}
+
+#darkblue
+{
+	-fx-background-color: rgb(0, 0, 150);
+}
+
+#darkred
+{
+	-fx-background-color: rgb(150, 0, 0);
+}
+
+#darkgreen
+{
+	-fx-background-color: green;
+}
+
+#black
+{
+	-fx-background-color: black;
+}
